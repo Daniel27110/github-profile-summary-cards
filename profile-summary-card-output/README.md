@@ -5,16 +5,6 @@ Here are all cards with themes.
 | :bell: | If only show Top Languages card here, then you maybe forgot to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
 | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-## [rouge2](./rouge2/README.md)
-[![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge2/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge2/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge2/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge2/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge2/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## [rouge1](./rouge1/README.md)
-[![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge1/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge1/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge1/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge1/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/rouge1/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ## [2077](./2077/README.md)
 [![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Daniel27110/github-profile-summary-card/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
