@@ -16,7 +16,7 @@ jobs:
       
     steps:
       - uses: actions/checkout@v2
-      - uses: Daniel27110/github-profile-summary-cards@main
+      - uses: Daniel27110/github-profile-summary-cards-2@main
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
