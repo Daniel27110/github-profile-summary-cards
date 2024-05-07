@@ -6,7 +6,6 @@ on:
   schedule: # execute every 24 hours
     - cron: "* */24 * * *"
   workflow_dispatch:
-Error: Can't find 'action.yml', 'action.yaml' or 'Dockerfile' for action 'Daniel27110/github-profile-summary-cards@master'.
 jobs:
   build:
     runs-on: ubuntu-latest
